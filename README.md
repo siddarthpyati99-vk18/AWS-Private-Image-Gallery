@@ -102,6 +102,25 @@ AWS-Private-Image-Gallery/
 
 ---
 
+## Screenshots
+
+### Gallery Homepage
+
+![Gallery Homepage](screenshots/gallery-homepage.png)
+
+### Amazon S3 Bucket
+
+![Amazon S3 Bucket](screenshots/s3-bucket.png)
+
+### Amazon EC2 Instance
+
+![Amazon EC2 Instance](screenshots/ec2-instance.png)
+
+### IAM Role
+
+![IAM Role](screenshots/iam-role.png)
+
+
 ## Author
 
 **Siddarth Pyati**
